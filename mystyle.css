@@ -1,0 +1,60 @@
+header{
+    background-color: lightblue;
+    text-decoration: underline;
+    text-align: center;
+    display: block;
+    position: static;
+}
+
+section{
+    background-color: rgb(0,0,255);
+    color: #FFFFFF;
+    margin: 10rem 50vw 10em 100px;
+    display: inline-block;
+    width: 1300px;
+    height: 300px;
+}
+
+main{
+    position: sticky;
+    padding: 50px 10cm 50px 50pt;
+    border-style: solid;
+    border-color: #d30808;
+    border-width: 50px;
+    border-radius: 200px;
+    max-width: 1000px;
+    display: grid;
+}
+
+.agenda{
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-right: 500px;
+    margin-bottom: 50px;
+    min-width: 2500px;
+    display: grid;
+}
+
+.media{
+    padding-left: 100px;
+    padding-top: 0px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    display: flex;
+}
+
+button:hover:active{
+    color:blue;
+}
+
+.extras1{
+    display: flex;
+}
+
+.extras2{
+    display: flex;
+}
+
+.extras3{
+    display: grid;
+}
